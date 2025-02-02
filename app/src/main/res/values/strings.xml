@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="google_maps_key">AIzaSyCob5Qr6lFo2lktZz5o99nxMXOD4wij9SA</string>
+    <string name="google_places_key">AIzaSyCob5Qr6lFo2lktZz5o99nxMXOD4wij9SA</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_signup">Forgot password/SignUp</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+</resources>

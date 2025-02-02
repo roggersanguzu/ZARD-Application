@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55382312101",
+    "project_id": "zard-74e0c",
+    "storage_bucket": "zard-74e0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55382312101:android:eb07674291b3984c20794c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vCh2Qz14VWkKCuU5X2qrJ248Ur8NshU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
