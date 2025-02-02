@@ -54,15 +54,15 @@ dependencies {
 
 
     // Add these new dependencies
-    implementation("com.google.firebase:firebase-database:20.0.5")  // Firebase Realtime Database
-    implementation("com.github.bumptech.glide:glide:4.13.0")          // Glide for image loading
-    annotationProcessor("com.github.bumptech.glide:compiler:4.13.0")
+    implementation("com.google.firebase:firebase-database:21.0.0")  // Firebase Realtime Database
+    implementation("com.github.bumptech.glide:glide:4.16.0")          // Glide for image loading
+    annotationProcessor("com.github.bumptech.glide:compiler:4.16.0")
 
 // Payment processing
-    implementation ("com.stripe:stripe-java:22.2.0")
-    implementation ("com.stripe:stripe-android:17.2.0")
+    implementation ("com.stripe:stripe-java:28.3.0")
+    implementation ("com.stripe:stripe-android:21.4.1")
     implementation ("com.android.volley:volley:1.2.1")
-    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
 
 
 
